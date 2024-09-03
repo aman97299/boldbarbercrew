@@ -1,0 +1,37 @@
+/* .serviceDetails-image-des-main {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 10px;
+}
+
+.image-main {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
+
+.des-main {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    gap: 20px;
+}
+
+.des-main h2 {
+    font-family: open sans, Sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: capitalize;
+    line-height: 40px;
+    color: #ec5598;
+}
+
+.des-main p {
+    color: #7a7a7a;
+    font-family: open sans, Sans-serif;
+    font-size: 20px;
+    line-height: 26px
+} */

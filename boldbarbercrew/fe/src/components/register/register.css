@@ -1,0 +1,8 @@
+
+    .custom-color-bg {
+        background-color: #55a8ec; /* Your custom color code */
+        color: white; /* Text color */
+        height: 30px;
+        border: none;
+        border-radius: 3px;
+    }

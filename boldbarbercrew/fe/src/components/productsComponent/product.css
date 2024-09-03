@@ -1,0 +1,22 @@
+.product-title {
+    margin: 60px 0px;
+}
+
+.product-title h2 {
+    margin: 0;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.top-title {
+    display: flex;
+    font-size: 14px;
+    font-weight: 500;
+    gap: 5px;
+}
+
+.top-title label {
+    /* color: #ec5598; */
+    color:#55a8ec;
+    cursor: pointer;
+}

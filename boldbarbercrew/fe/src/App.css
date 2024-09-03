@@ -1,0 +1,80 @@
+.owl-theme .owl-dots .owl-dot span {
+    width: 15px !important;
+    height: 15px !important;
+    margin: 5px 7px;
+    background: none !important;
+    display: block;
+    -webkit-backface-visibility: visible;
+    transition: opacity 200ms ease;
+    border-radius: 30px;
+    /* border: 1px solid #f04e97 !important; */
+    border: 1px solid #55a8ec !important;
+}
+
+.owl-theme .owl-dots .owl-dot.active span {
+    /* background: #f04e97 !important; */
+    background:#55a8ec !important;
+}
+
+button.owl-prev {
+    font-size: 60px !important;
+    position: absolute;
+    left: -80px;
+    top: 30px;
+    height: 100px;
+    color: gray !important;
+    display: flex !important;
+}
+
+button.owl-next {
+    font-size: 60px !important;
+    position: absolute;
+    right: -80px;
+    top: 30px;
+    color: gray !important;
+    font-weight: bold;
+    height: 100px;
+    color: gray !important;
+    display: flex !important;
+}
+
+
+button.owl-prev:hover {
+    background: none !important;
+}
+
+button.owl-next:hover {
+    background: none !important;
+}
+
+table {
+    font-family: arial, sans-serif;
+    width: 100%;
+    /* border: 1px solid #ec5598; */
+    border: 1px solid #55a8ec;
+}
+
+td,
+th {
+    /* border: 1px solid #ec5598; */
+    border:1 px solid #55a8ec;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+
+}
+
+table td {
+    padding: 0.5rem;
+    /* border: 1px solid #ec5598; */
+    border:1px solid #55a8ec;
+}
+
+table th {
+    padding: 0.5rem;
+    border:1px solid #55a8ec;
+    /* border: 1px solid #ec5598; */
+}
